@@ -1,11 +1,11 @@
 # CAN_Extractor
 Simple Extractor for CAN data formatted .blf and .asc. 
 
-## input 
+## Input 
 Configuration.cfg<br>
 first row: data file path. ex. C:\work\data\testdata.blf<br>
 <br>
-## output
+## Output
 CAN_Data.pkl<br>
 <br>
 This pickle file contains class as below:<br><br>
